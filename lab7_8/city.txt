@@ -1,0 +1,5 @@
+dehradun 5.78 308.20
+delhi 190 1484
+rishikesh 3 11.5
+bangalore 84.4 741
+andaman 4.34 8429

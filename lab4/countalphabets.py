@@ -1,7 +1,7 @@
-string = input("Enter string to count alphabets: ")
+input = input("Enter string to count alphabets: ")
 alphabet_counter = {}
 
-for i in string.upper():
+for i in input.upper():
 	alphabet_counter[i] = alphabet_counter.get(i,0)+1
 
 print("The occurences of alphabets are: ")

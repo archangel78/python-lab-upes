@@ -17,5 +17,6 @@ for student in student_dictionary:
     total_marks = 0
     for mark in range(0,no_subjects):
         total_marks = total_marks + student_dictionary[student][mark]
+
     average_marks = total_marks/no_subjects
     print(student+": "+str(average_marks))
